@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ダーウィン",
+  "base_artist": "TOOBOE",
+  "createdAt": "2026-02-17T02:54:21.575052Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ダーウィン",
+      "artist": "TOOBOE",
+      "has_synced": false,
+      "path": "select/pl_01_ダーウィン_TOOBOE.txt"
+    }
+  ]
+}
